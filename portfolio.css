@@ -118,3 +118,18 @@ line-height: 30px; /* 166.667% */
      
 
 }
+/*main styles*/
+.main{
+
+
+
+}
+
+.about-info-container{
+
+    display: flex;
+    justify-content: space-between;
+}
+.about-info{
+    text-align: center;
+}
